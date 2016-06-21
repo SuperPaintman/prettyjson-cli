@@ -1,0 +1,11 @@
+# Modules
+node_modules/
+
+# Builded
+bin/
+
+# Coverage
+coverage/
+
+# Log
+npm-debug.log
